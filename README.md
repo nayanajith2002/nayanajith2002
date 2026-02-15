@@ -8,6 +8,10 @@
 - 🌱 I'm learning how to build and deploy mobile applications.
 - ⚡ **Fun Fact:** Big fan of **John Cena** & **CM Punk**. "Acknowledge Me !" 👊
 
+- ![Nayanajith's Stats](https://github-readme-stats.vercel.app/api?username=nayanajith2002&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayanajith2002&layout=compact&theme=radical)
+
 ---
 
 ## 🛠️ Languages and Tools
