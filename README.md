@@ -1,12 +1,20 @@
 # Hi 👋, I'm Nayanajith!
-### Python Developer | Tech Enthusiast | Wrestling Fan 🎺
+### Python Developer | Undergraduate at NSBM | Wrestling Fan 🎺
 
 ---
 
 ## 💫 About Me
 - 🔭 I’m currently working on a **Python Kivy Android App**.
-- 🌱 I'm learning how to build and deploy mobile applications.
-- ⚡ **Fun Fact:** Big fan of **John Cena** & **CM Punk**. "Acknowledge Me !" 👊
+- 🎓 I'm an undergraduate at **NSBM Green University**, currently pursuing my higher studies.
+- 🌱 I'm actively learning Mobile App Development and Python.
+- ⚡ **Fun Fact:** Big fan of **John Cena** & **CM Punk**. "The Champ is Here!" 👊
+
+---
+
+## 📊 My GitHub Stats
+![Nayanajith's Stats](https://github-readme-stats.vercel.app/api?username=nayanajith2002&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayanajith2002&layout=compact&theme=radical)
 
 ---
 
@@ -20,6 +28,5 @@
 ---
 
 ## 🤝 Connect with Me
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/ඔයාගේ_Instagram_Username_එක)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/nayanajith2002)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/poornadisanayake)
-
