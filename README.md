@@ -6,7 +6,7 @@
 ## 💫 About Me
 - 🔭 I’m currently working on a **Python Kivy Android App**.
 - 🌱 I'm learning how to build and deploy mobile applications.
-- ⚡ **Fun Fact:** Big fan of **John Cena** & **CM Punk**. "The Champ is Here!" 👊
+- ⚡ **Fun Fact:** Big fan of **John Cena** & **CM Punk**. "Acknowledge Me !" 👊
 
 ---
 
