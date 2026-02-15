@@ -5,16 +5,9 @@
 
 ## 💫 About Me
 - 🔭 I’m currently working on a **Python Kivy Android App**.
-- 🎓 I'm an undergraduate at **NSBM Green University**, currently pursuing my higher studies.
+- 🎓 I'm an undergraduate at **NSBM Green University**, currently pursuing a **BSc(Hons)in Computer Science**.
 - 🌱 I'm actively learning Mobile App Development and Python.
-- ⚡ **Fun Fact:** Big fan of **John Cena** & **CM Punk**. "The Champ is Here!" 👊
-
----
-
-## 📊 My GitHub Stats
-![Nayanajith's Stats](https://github-readme-stats.vercel.app/api?username=nayanajith2002&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayanajith2002&layout=compact&theme=radical)
+- ⚡ **Fun Fact:** Big fan of **John Cena** & **Roman Reigns**. "**ACKNOWLEDGE THE CHAMP !**" 👊
 
 ---
 
