@@ -11,10 +11,9 @@
 ---
 
 ## 📊 My GitHub Stats
-![Nayanajith's Stats](https://github-readme-stats.vercel.app/api?username=nayanajith2002&show_icons=true&theme=radical&hide_border=true)
+![Nayanajith's Stats](https://github-readme-stats.vercel.app/api?username=nayanajith2002&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayanajith2002&layout=compact&theme=radical&hide_border=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayanajith2002&layout=compact&theme=radical)
 ---
 
 ## 🛠️ Languages and Tools
