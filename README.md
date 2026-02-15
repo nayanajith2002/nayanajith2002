@@ -10,12 +10,6 @@
 
 ---
 
-## 📊 My GitHub Stats
-![Nayanajith's Stats](https://github-readme-stats.vercel.app/api?username=nayanajith2002&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayanajith2002&layout=compact&theme=radical)
----
-
 ## 🛠️ Languages and Tools
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
